@@ -59,6 +59,12 @@ The application continuously polls the specified VNC host.
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
+## Donation links
+
+Anything is super helpful! Anything donated helps me keep developing this program and others!
+- https://www.paypal.com/paypalme/lifeline42
+- https://cash.app/$codoen314
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/mastercodeon31415/TightVNC-Desktop-Extender/blob/main/LICENSE) file for details. 
